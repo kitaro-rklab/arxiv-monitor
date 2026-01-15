@@ -2,7 +2,7 @@ name: arxiv-monitor
 
 on:
   schedule:
-    - cron: '2 4 * * *'
+    - cron: '1 4 * * *'
   workflow_dispatch:
 
 jobs:
