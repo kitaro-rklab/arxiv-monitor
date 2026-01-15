@@ -2,7 +2,7 @@ name: arxiv-monitor
 
 on:
   repository_dispatch:
-    types: [on-demand-test]
+    types: [cron-job]
 
 jobs:
   run-python:
