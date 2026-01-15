@@ -1,0 +1,8 @@
+.env
+.venv_arxiv-monitor
+.venv_arxiv-monitor_macbookair
+create_glossary.txt
+delete_glossary.txt
+.DS_Store
+__pycache__/
+*.pyc
