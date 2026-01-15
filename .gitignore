@@ -7,3 +7,7 @@ delete_glossary.txt
 __pycache__/
 *.pyc
 tsv2txt
+input.tsv
+output.txt
+read_glossary.py
+input.gsheet
