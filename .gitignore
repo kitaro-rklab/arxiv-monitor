@@ -6,3 +6,4 @@ delete_glossary.txt
 .DS_Store
 __pycache__/
 *.pyc
+tsv2txt
